@@ -13,6 +13,6 @@ public class ComputerBuyerPredictor {
         } else{
             potensiMenjadiCustomer = false;
         }
-    return potensiMenjadiCustomer;
+        return potensiMenjadiCustomer;
     }
 }
